@@ -1,3 +1,3 @@
-ajax crawling starbucks shop map
-1. selet loaction in box
-2. check and wait loading all page elememts
+Ajax Crawling for Starbucks Shop
+1. Selet loaction in list box
+2. Check and wait loading all page elememts
